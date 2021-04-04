@@ -1,3 +1,3 @@
-module github.com/rjesseethompson/bits
+module github.com/mrjesseethompson/bits
 
 go 1.16
